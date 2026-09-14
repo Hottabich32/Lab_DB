@@ -1,0 +1,1 @@
+SELECT subj_id, subj_name, semestr, hour FROM subject;

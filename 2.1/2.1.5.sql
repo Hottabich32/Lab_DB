@@ -1,0 +1,1 @@
+SELECT DISTINCT mark FROM exams;

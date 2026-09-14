@@ -1,0 +1,1 @@
+SELECT * FROM lecturer WHERE city LIKE '%-%';
