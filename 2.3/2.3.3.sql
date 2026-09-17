@@ -1,0 +1,1 @@
+SELECT LOWER(CONCAT_WS(';', SUBSTR(name,1,1) || '.' || surname, 'место жительства - ' || city, 'родился - ' || birthday)) FROM student

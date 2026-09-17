@@ -1,0 +1,1 @@
+SELECT initcap(name) || ' ' || initcap(surname) || ' родился в ' || to_char(birthday, ' родился в YYYY году') FROM student

@@ -1,0 +1,1 @@
+SELECT CONCAT_WS(';', stud_id, UPPER(surname), UPPER(name), stipend, kurs, UPPER(city), birthday, univ_id) FROM student;

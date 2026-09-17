@@ -1,0 +1,1 @@
+SELECT surname, name, (stipend*100) FROM student;
