@@ -1,0 +1,2 @@
+SELECT COUNT(DISTINCT subj_id)
+	FROM exams;
